@@ -307,9 +307,3 @@ ORDER BY ARTIST_ID, year_release ASC;
 - Criar tabelas de relacionamento (`album_artists`, `track_artists`) para analisar colaborações entre artistas.
 - Registrar logs de execução no schema de metadados.
 - Construir um dashboard em cima da camada gold com Databricks SQL ou Power BI.
-
----
-
-## 👤 Autor
-
-**Seu nome** · [LinkedIn](https://www.linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
